@@ -1,0 +1,33 @@
+{
+  "name": "blog_politico",
+  "version": "0.1.0",
+  "description": "Se inicia el proyecto de blog sobre política, salud y educación.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfrancobedoya/blogAlvaro.git"
+  },
+  "keywords": [
+    "Blog",
+    "Discusion",
+    "Educación",
+    "Política",
+    "Universidad"
+  ],
+  "author": "Cristian Franco <cfrancobedoya@gmail.com> (http://www.ramlapro.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfrancobedoya/blogAlvaro/issues"
+  },
+  "homepage": "https://github.com/cfrancobedoya/blogAlvaro#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

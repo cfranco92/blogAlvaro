@@ -1,2 +1,2 @@
 # blogAlvaro
-Blog en donde se desarrollaran discusiones sobre política, salud y educación.
+Blog en donde se desarrollarán discusiones sobre política, economía, salud y educación.
